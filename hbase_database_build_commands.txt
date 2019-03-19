@@ -1,0 +1,585 @@
+create 'evansna:evans_hbase', 'clinvar'
+put 'evansna:evans_hbase', 'NM_000302.3(PLOD1):c.1098-3C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000302.3(PLOD1):c.1098-3C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.207+15A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.207+15A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.657+9G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.657+9G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.799+3A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_174936.3(PCSK9):c.799+3A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_144573.3(NEXN):c.1053+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_144573.3(NEXN):c.1053+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001232.3(CASQ2):c.421-15C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001232.3(CASQ2):c.421-15C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_170707.3(LMNA):c.640-10A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_170707.3(LMNA):c.640-10A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_170707.3(LMNA):c.1608+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_170707.3(LMNA):c.1608+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001001430.2(TNNT2):c.571-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001001430.2(TNNT2):c.571-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001135599.3(TGFB2):c.-5A>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001135599.3(TGFB2):c.-5A>T', 'clinvar: transition','A>T'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.1476+4C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.1476+4C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.6022+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.6022+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.8209-3A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.8209-3A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.10231-4T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.10231-4T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.14151+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001035.2(RYR2):c.14151+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000384.2(APOB):c.1353-12C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000384.2(APOB):c.1353-12C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_000384.2(APOB):c.905-16A>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000384.2(APOB):c.905-16A>C', 'clinvar: transition','A>C'
+put 'evansna:evans_hbase', 'NM_005633.3(SOS1):c.2673+14T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_005633.3(SOS1):c.2673+14T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+217591C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+217591C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+212679C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+212679C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+206106C>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+206106C>A', 'clinvar: transition','C>A'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+199328C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+199328C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+187761G>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+187761G>T', 'clinvar: transition','G>T'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.66770-2A>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.66770-2A>C', 'clinvar: transition','A>C'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.59344+3G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.59344+3G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_003319.4(TTN):c.26093-1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_003319.4(TTN):c.26093-1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.46697-5A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.46697-5A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+120028C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+120028C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+110089A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+110089A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.40558+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.40558+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.39044-9T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.39044-9T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.32554+1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.32554+1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_001256850.1(TTN):c.30812-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001256850.1(TTN):c.30812-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.30803-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.30803-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+33192T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+33192T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+27655T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+27655T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+24859C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+24859C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+18102T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+18102T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10361-1167G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10361-1167G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+5281A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133379.4(TTN):c.*265+5281A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10361-2877A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10361-2877A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.10303+2T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001267550.2(TTN):c.10303+2T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10114+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_133378.4(TTN):c.10114+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000090.3(COL3A1):c.528+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000090.3(COL3A1):c.528+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000090.3(COL3A1):c.2022+5T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000090.3(COL3A1):c.2022+5T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_000393.4(COL5A2):c.2392-4A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000393.4(COL5A2):c.2392-4A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_003242.5(TGFBR2):c.455-4T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_003242.5(TGFBR2):c.455-4T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.2437-5C>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.2437-5C>A', 'clinvar: transition','C>A'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.1338+2T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.1338+2T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.998+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.998+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000335.4(SCN5A):c.[3919C>T;694G>A]', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000335.4(SCN5A):c.[3919C>T;694G>A]', 'clinvar: transition','>A]'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.611+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_198056.2(SCN5A):c.611+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_053025.3(MYLK):c.4289-4C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_053025.3(MYLK):c.4289-4C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.7841-3C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.7841-3C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.6511+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.6511+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.1466-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001999.3(FBN2):c.1466-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000337.5(SGCD):c.699+18C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000337.5(SGCD):c.699+18C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_004415.3(DSP):c.171-4T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004415.3(DSP):c.171-4T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_000500.7(CYP21A2):c.293-13C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000500.7(CYP21A2):c.293-13C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_002290.4(LAMA4):c.4801-3C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002290.4(LAMA4):c.4801-3C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.1568-4T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.1568-4T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.1219+4A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.1219+4A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.932-4C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006073.3(TRDN):c.932-4C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_000501.3(ELN):c.800-3C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000501.3(ELN):c.800-3C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_000238.3(KCNH2):c.1558-5C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000238.3(KCNH2):c.1558-5C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_016203.3(PRKAG2):c.*3G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_016203.3(PRKAG2):c.*3G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_004612.4(TGFBR1):c.-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004612.4(TGFBR1):c.-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_004612.3(TGFBR1):c.343+3A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004612.3(TGFBR1):c.343+3A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000093.4(COL5A1):c.2799+4T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000093.4(COL5A1):c.2799+4T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_000093.4(COL5A1):c.4230+5C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000093.4(COL5A1):c.4230+5C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_017617.5(NOTCH1):c.3644-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_017617.5(NOTCH1):c.3644-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_017617.5(NOTCH1):c.2354-5T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_017617.5(NOTCH1):c.2354-5T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_201571.3(CACNB2):c.1122+3A>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_201571.3(CACNB2):c.1122+3A>T', 'clinvar: transition','A>T'
+put 'evansna:evans_hbase', 'NM_006393.2(NEBL):c.2149-5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006393.2(NEBL):c.2149-5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_006393.2(NEBL):c.480+3A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006393.2(NEBL):c.480+3A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_006258.4(PRKG1):c.1173+4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_006258.4(PRKG1):c.1173+4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.321+1523C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.321+1523C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.321+1566G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.321+1566G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_007078.2(LDB3):c.690-4A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_007078.2(LDB3):c.690-4A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_007078.2(LDB3):c.896+6731C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_007078.2(LDB3):c.896+6731C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.*17227G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.*17227G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.*26800C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001080116.1(LDB3):c.*26800C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001134363.2(RBM20):c.1881-3C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001134363.2(RBM20):c.1881-3C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_000218.2(KCNQ1):c.[1249G>A;760G>A]', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000218.2(KCNQ1):c.[1249G>A;760G>A]', 'clinvar: transition','>A]'
+put 'evansna:evans_hbase', 'NM_000218.2(KCNQ1):c.1394-1G>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000218.2(KCNQ1):c.1394-1G>T', 'clinvar: transition','G>T'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3815-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3815-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3331-1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3331-1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3330+5G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3330+5G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3190+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3190+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3190+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.3190+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.2309-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.2309-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1928-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1928-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1897+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1897+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1624+2T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1624+2T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1227-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1227-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1224-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.1224-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.927-9G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.927-9G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.821+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.821+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.655-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000256.3(MYBPC3):c.655-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001885.2(CRYAB):c.324+4T>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001885.2(CRYAB):c.324+4T>G', 'clinvar: transition','T>G'
+put 'evansna:evans_hbase', 'NM_000719.6(CACNA1C):c.4140+4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000719.6(CACNA1C):c.4140+4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_020297.3(ABCC9):c.574-5C>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_020297.3(ABCC9):c.574-5C>A', 'clinvar: transition','C>A'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.2489+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.2489+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.2146-1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.2146-1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.1378+1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.1378+1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.224-3C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_004572.3(PKP2):c.224-3C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_000192.3(TBX5):c.510+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000192.3(TBX5):c.510+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_002471.3(MYH6):c.2928+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002471.3(MYH6):c.2928+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_002471.3(MYH6):c.643-5C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002471.3(MYH6):c.643-5C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_000257.3(MYH7):c.5559+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000257.3(MYH7):c.5559+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000257.4(MYH7):c.2162+4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000257.4(MYH7):c.2162+4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.6740-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.6740-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.5423-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.5423-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.4337-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.4337-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.3463+3A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.3463+3A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.2678-3C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.2678-3C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.2168-2A>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.2168-2A>G', 'clinvar: transition','A>G'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.1468+5G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.1468+5G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.164+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000138.4(FBN1):c.164+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001018005.1(TPM1):c.*4001G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001018005.1(TPM1):c.*4001G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_005477.2(HCN4):c.1978+3G>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_005477.2(HCN4):c.1978+3G>T', 'clinvar: transition','G>T'
+put 'evansna:evans_hbase', 'NM_001143979.1(NDE1):c.948-7025C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001143979.1(NDE1):c.948-7025C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001143979.1(NDE1):c.948-6917G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001143979.1(NDE1):c.948-6917G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001040113.1(MYH11):c.5317-4C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001040113.1(MYH11):c.5317-4C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_002474.2(MYH11):c.4791+4C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002474.2(MYH11):c.4791+4C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_002474.2(MYH11):c.1749+4C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002474.2(MYH11):c.1749+4C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_002230.2(JUP):c.708-4C>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_002230.2(JUP):c.708-4C>G', 'clinvar: transition','C>G'
+put 'evansna:evans_hbase', 'NM_000891.2(KCNJ2):c.-2C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000891.2(KCNJ2):c.-2C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_003803.3(MYOM1):c.2210-4T>G', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_003803.3(MYOM1):c.2210-4T>G', 'clinvar: transition','T>G'
+put 'evansna:evans_hbase', 'NM_024422.4(DSC2):c.1264-5C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_024422.4(DSC2):c.1264-5C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001943.4(DSG2):c.217-5G>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001943.4(DSG2):c.217-5G>T', 'clinvar: transition','G>T'
+put 'evansna:evans_hbase', 'NM_001943.4(DSG2):c.829-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001943.4(DSG2):c.829-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000371.3(TTR):c.337-3T>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000371.3(TTR):c.337-3T>C', 'clinvar: transition','T>C'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.313+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.313+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.941-4G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.941-4G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1060+10G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1060+10G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1187-10G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1187-10G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1358+2T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1358+2T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1359-1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.1359-1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.2140+1G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000527.4(LDLR):c.2140+1G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_000528.3(MAN2B1):c.1830+1G>C', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000528.3(MAN2B1):c.1830+1G>C', 'clinvar: transition','G>C'
+put 'evansna:evans_hbase', 'NM_017636.3(TRPM4):c.2779-5C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_017636.3(TRPM4):c.2779-5C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_000363.4(TNNI3):c.25-8T>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_000363.4(TNNI3):c.25-8T>A', 'clinvar: transition','T>A'
+put 'evansna:evans_hbase', 'NM_030777.3(SLC2A10):c.1412-3C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_030777.3(SLC2A10):c.1412-3C>T', 'clinvar: transition','C>T'
+put 'evansna:evans_hbase', 'NM_001122606.1(LAMP2):c.1093+2514G>A', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001122606.1(LAMP2):c.1093+2514G>A', 'clinvar: transition','G>A'
+put 'evansna:evans_hbase', 'NM_001456.3(FLNA):c.5289+4C>T', 'clinvar: dis.pheno','Cardiovascular Related'
+put 'evansna:evans_hbase', 'NM_001456.3(FLNA):c.5289+4C>T', 'clinvar: transition','C>T'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
